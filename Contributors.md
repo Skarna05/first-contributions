@@ -1,3 +1,4 @@
+-[KaranSingh](https://github.com/Skarna05)
 - [mefff](https://github.com/mefff)
 - [JD Bequette](https://github.com/jdbequette)
 - [Austin LeBel](https://github.com/slatefox)
